@@ -1,4 +1,8 @@
-// biome-ignore lint/suspicious/noExplicitAny: GAS function
-(global as any).myFunction = () => {
-	console.log('Hello, world!');
-};
+import { keepFunctions } from './keep';
+
+function doGet() {
+	const html = HtmlService.createHtmlOutputFromFile('index');
+	return html;
+}
+
+keepFunctions(doGet);
