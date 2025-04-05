@@ -1,0 +1,521 @@
+[[expenses]]
+desc = "カスミ"
+amount = 2_104
+at = 2025-03-03
+deffered = 2025-04-28
+cat = "食費"
+
+[[expenses]]
+desc = "カスミ"
+amount = 2_263
+at = 2025-03-04
+deffered = 2025-04-28
+cat = "食費"
+
+[[expenses]]
+desc = "カスミ"
+amount = 1_535
+at = 2025-03-05
+deffered = 2025-04-28
+cat = "食費"
+
+[[expenses]]
+desc = "MOVIX 亀有"
+amount = 1_500
+at = 2025-03-09
+deffered = 2025-04-28
+cat = "娯楽費"
+
+[[expenses]]
+desc = "放送大学 学費"
+amount = 63_440
+at = 2025-03-09
+cat = "教育費"
+
+[[expenses]]
+desc = "ヤオコー"
+amount = 1_124
+at = 2025-03-11
+cat = "食費"
+
+[[expenses]]
+desc = "マツキヨ リセッシュ"
+amount = 278
+at = 2025-03-11
+cat = "日用品費"
+
+[[expenses]]
+desc = "ダイソー 爪切り"
+amount = 110
+at = 2025-03-11
+cat = "日用品費"
+
+[[expenses]]
+desc = "ダイソー 鍋つかみ"
+amount = 110
+at = 2025-03-12
+cat = "日用品費"
+
+[[expenses]]
+desc = "ヤオコー"
+amount = 571
+at = 2025-03-12
+cat = "食費"
+
+[[expenses]]
+desc = "くすりの福太郎"
+amount = 796
+at = 2025-03-12
+cat = "食費"
+
+[[expenses]]
+desc = "フレスポ 第二出版販売"
+amount = 770
+at = 2025-03-12
+cat = "教育費"
+
+[[expenses]]
+desc = "ヤオコー"
+amount = 731
+at = 2025-03-13
+cat = "食費"
+
+[[expenses]]
+desc = "ベルクス"
+amount = 902
+at = 2025-03-14
+cat = "食費"
+
+[[expenses]]
+desc = "Seria"
+amount = 330
+at = 2025-03-14
+cat = "日用品費"
+
+[[expenses]]
+desc = "YouTube Premium"
+amount = 780
+at = 2025-03-14
+deffered = 2025-04-28
+cat = "通信費"
+
+[[expenses]]
+desc = "セブンイレブン"
+amount = 108
+at = 2025-03-15
+cat = "食費"
+
+[[expenses]]
+desc = "キッチンオリジン"
+amount = 225
+at = 2025-03-15
+cat = "食費"
+
+[[expenses]]
+desc = "カラオケ館"
+amount = 1_485
+at = 2025-03-15
+cat = "娯楽費"
+
+[[expenses]]
+desc = "ゆうちょATM手数料"
+amount = 110
+at = 2025-03-15
+cat = "手数料"
+
+[[expenses]]
+desc = "1Password 1年分ライセンス"
+amount = 6_083
+at = 2025-03-17
+deffered = 2025-04-28
+cat = "通信費"
+
+[[expenses]]
+desc = "くすりの福太郎"
+amount = 1_650
+at = 2025-03-17
+cat = "医療費"
+
+[[expenses]]
+desc = "吉野家"
+amount = 630
+at = 2025-03-17
+cat = "食費"
+
+[[expenses]]
+desc = "キッチンオリジン"
+amount = 552
+at = 2025-03-17
+cat = "食費"
+
+[[expenses]]
+desc = "東京医科大学病院 診察代"
+amount = 3_870
+at = 2025-03-17
+cat = "医療費"
+
+[[expenses]]
+desc = "薬代"
+amount = 1_364
+at = 2025-03-17
+cat = "医療費"
+
+[[income]]
+desc = "パソコン工房 秋葉原本店 Cintiq 16 売却"
+amount = 11_770
+at = 2025-03-17
+cat = "売却"
+
+[[expenses]]
+desc = "自販機飲料 x2"
+amount = 290
+at = 2025-03-17
+cat = "食費"
+
+[[expenses]]
+desc = "電車賃"
+amount = 1_602
+at = 2025-03-17
+cat = "交通費"
+
+[[expenses]]
+desc = "メルカリ MacBook 用充電器"
+amount = 1_976
+at = 2025-03-17
+deffered = 2025-05-12
+cat = "日用品費"
+
+[[expenses]]
+desc = "Claude Pro"
+amount = 3_041
+at = 2025-03-17
+deffered = 2025-05-12
+cat = "通信費"
+
+[[expenses]]
+desc = "カスミ"
+amount = 1_693
+at = 2025-03-18
+cat = "食費"
+
+[[expenses]]
+desc = "キッチンオリジン"
+amount = 538
+at = 2025-03-18
+cat = "食費"
+
+[[expenses]]
+desc = "ゲオ ルーズリーフバインダー"
+amount = 624
+at = 2025-03-19
+cat = "日用品費"
+
+[[expenses]]
+desc = "カスミ"
+amount = 1_170
+at = 2025-03-19
+cat = "食費"
+
+[[expenses]]
+desc = "天然水"
+amount = 127
+at = 2025-03-20
+cat = "食費"
+
+[[expenses]]
+desc = "神奈川のサービスエリア 自販機のお茶"
+amount = 160
+at = 2025-03-20
+cat = "食費"
+
+[[expenses]]
+desc = "電車賃"
+amount = 1_372
+at = 2025-03-20
+cat = "交通費"
+
+[[expenses]]
+desc = "カスミ"
+amount = 1_182
+at = 2025-03-21
+cat = "食費"
+
+[[expenses]]
+desc = "ゲームセンター"
+amount = 5_453
+at = 2025-03-21
+cat = "娯楽費"
+
+[[expenses]]
+desc = "天然水"
+amount = 140
+at = 2025-03-21
+cat = "食費"
+
+[[expenses]]
+desc = "ラーメン魁力屋 背脂醤油ラーメン"
+amount = 825
+at = 2025-03-21
+cat = "食費"
+
+[[expenses]]
+desc = "自販機の飲み物"
+amount = 120
+at = 2025-03-22
+cat = "食費"
+
+[[expenses]]
+desc = "自販機の飲み物"
+amount = 140
+at = 2025-03-22
+cat = "食費"
+
+[[expenses]]
+desc = "自販機の飲み物"
+amount = 150
+at = 2025-03-22
+cat = "食費"
+
+[[expenses]]
+desc = "電車賃"
+amount = 1_862
+at = 2025-03-22
+cat = "交通費"
+
+[[expenses]]
+desc = "自販機の飲み物"
+amount = 110
+at = 2025-03-23
+cat = "食費"
+
+[[expenses]]
+desc = "電車賃"
+amount = 942
+at = 2025-03-23
+cat = "交通費"
+
+[[expenses]]
+desc = "キッチンオリジン"
+amount = 538
+at = 2025-03-23
+cat = "食費"
+
+[[income]]
+desc = "ハードオフ秋葉原1号店 オーディオインターフェース 売却"
+amount = 6000
+at = 2025-03-23
+cat = "売却"
+
+[[income]]
+desc = "らしんばん秋葉原駅前新館 フィギュア・ノラとと 売却"
+amount = 1200
+at = 2025-03-23
+cat = "売却"
+
+[[income]]
+desc = "ブックオフ秋葉原駅前店 本・CD 売却"
+amount = 980
+at = 2025-03-23
+cat = "売却"
+
+[[income]]
+desc = "ブックオフ秋葉原駅前店 Switch本体 売却"
+amount = 18_000
+at = 2025-03-23
+cat = "売却"
+
+[[expenses]]
+desc = "Spotify Premium Student"
+amount = 480
+at = 2025-03-24
+deffered = 2025-05-12
+cat = "通信費"
+
+[[expenses]]
+desc = "くすりの福太郎"
+amount = 517
+at = 2025-03-24
+cat = "食費"
+
+[[expenses]]
+desc = "カスミ"
+amount = 792
+at = 2025-03-24
+cat = "食費"
+
+[[expenses]]
+desc = "IJOOZ"
+amount = 350
+at = 2025-03-24
+cat = "食費"
+
+[[expenses]]
+desc = "こぶし耳鼻咽喉科クリニック 診察代"
+amount = 1_270
+at = 2025-03-25
+cat = "医療費"
+
+[[expenses]]
+desc = "薬代"
+amount = 1_970
+at = 2025-03-25
+cat = "医療費"
+
+[[expenses]]
+desc = "くすりの福太郎"
+amount = 412
+at = 2025-03-25
+cat = "食費"
+
+[[expenses]]
+desc = "カスミ"
+amount = 853
+at = 2025-03-25
+cat = "食費"
+
+[[expenses]]
+desc = "オーブントースター"
+amount = 22_537
+at = 2025-03-25
+deffered = 2025-04-28
+cat = "家電"
+
+[[expenses]]
+desc = "バス運賃"
+amount = 200
+at = 2025-03-25
+cat = "交通費"
+
+[[income]]
+desc = "HERP 給与 2025年2月分"
+amount = 117_910
+at = 2025-03-25
+cat = "給与"
+
+[[expenses]]
+desc = "濃厚鶏そば麺屋武一 秋葉原店 (不味かった)"
+amount = 1_100
+at = 2025-03-26
+cat = "食費"
+
+[[expenses]]
+desc = "自販機の天然水"
+amount = 100
+at = 2025-03-26
+cat = "食費"
+
+[[expenses]]
+desc = "電車賃"
+amount = 942
+at = 2025-03-26
+cat = "交通費"
+
+[[expenses]]
+desc = "つくばエクスプレス PASMO 定期代 (1ヶ月分)"
+amount = 16_950
+at = 2025-03-26
+deffered = 2025-04-28
+cat = "交通費"
+
+[[income]]
+desc = "駿河屋 秋葉原本館 iPad Pro 売却"
+amount = 40_000
+at = 2025-03-27
+cat = "売却"
+
+[[expenses]]
+desc = "わらびもち"
+amount = 300
+at = 2025-03-27
+cat = "食費"
+
+[[expenses]]
+desc = "ダイソー"
+amount = 440
+at = 2025-03-27
+deffered = 2025-05-12
+cat = "日用品費"
+
+[[expenses]]
+desc = "電車賃"
+amount = 942
+at = 2025-03-27
+cat = "交通費"
+
+[[expenses]]
+desc = "家賃 (1ヶ月) + 家賃保証 (1年)"
+amount = 87_330
+at = 2025-03-27
+cat = "家賃"
+
+[[expenses]]
+desc = "火災保険 (1年)"
+amount = 20_000
+at = 2025-03-27
+cat = "保険"
+
+[[expenses]]
+desc = "中華料理屋 炎神 上海やきそば・餃子"
+amount = 1_360
+at = 2025-03-28
+cat = "食費"
+
+[[expenses]]
+desc = "ダイソー 水筒のなかを洗うためのスポンジ"
+amount = 110
+at = 2025-03-29
+cat = "日用品費"
+
+[[expenses]]
+desc = "くすりの福太郎 マスク"
+amount = 691
+at = 2025-03-29
+cat = "日用品費"
+
+[[expenses]]
+desc = "カスミ"
+amount = 2_752
+at = 2025-03-29
+cat = "食費"
+
+[[expenses]]
+desc = "くすりの福太郎 衣類用洗剤 アタック抗菌EX 部屋干し 詰め替え"
+amount = 878
+at = 2025-03-30
+cat = "日用品費"
+
+[[expenses]]
+desc = "ニトリ 弁当箱とランチバッグ"
+amount = 1_598
+at = 2025-03-30
+cat = "日用品費"
+
+[[expenses]]
+desc = "ダイソー"
+amount = 880
+at = 2025-03-30
+cat = "日用品費"
+
+[[income]]
+desc = "駿河屋 秋葉原買取センター 売却"
+amount = 4_965
+at = 2025-03-31
+cat = "売却"
+
+[[expenses]]
+desc = "ヤオコー"
+amount = 299
+at = 2025-03-31
+cat = "食費"
+
+[[expenses]]
+desc = "ahamo 2025年2月分"
+amount = 2_973
+at = 2025-03-31
+cat = "通信費"
+
+[[income]]
+desc = "Vポイント 交換"
+amount = 241
+at = 2025-03-31
+cat = "ポイント交換"

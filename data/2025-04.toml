@@ -1,0 +1,71 @@
+[[income]]
+desc = "ゆうちょ銀行 受取利子"
+amount = 261
+at = 2025-04-01
+cat = "利子"
+
+[[expenses]]
+desc = "八潮駅前内科こどもクリニック 診察・検査代"
+amount = 2_380
+at = 2025-04-01
+cat = "医療費"
+
+[[expenses]]
+desc = "くすりの福太郎 薬代"
+amount = 530
+at = 2025-04-01
+cat = "医療費"
+
+[[expenses]]
+desc = "くすりの福太郎 体温計・保冷まくら"
+amount = 2_416
+at = 2025-04-01
+cat = "医療費"
+
+[[expenses]]
+desc = "キッチンオリジン チキン竜田のり弁当"
+amount = 538
+at = 2025-04-02
+cat = "食費"
+
+[[expenses]]
+desc = "オフィス内自販機 飲み物 x2"
+amount = 100
+at = 2025-04-02
+cat = "食費"
+
+[[expenses]]
+desc = "ヤオコー"
+amount = 299
+at = 2025-04-03
+cat = "食費"
+
+[[expenses]]
+desc = "キッチンオリジン 良い値焼きそば炒飯弁当 + レジ袋"
+amount = 541
+at = 2025-04-03
+cat = "食費"
+
+[[expenses]]
+desc = "オフィス内自販機 飲み物"
+amount = 50
+at = 2025-04-03
+cat = "食費"
+
+[[expenses]]
+desc = "ゲオ ライトノベル「青春ブタ野郎はゆめみる少女の夢を見ない」"
+amount = 623
+at = 2025-04-04
+cat = "娯楽費"
+
+[[expenses]]
+desc = "キッチンオリジン ロースかつとじ弁当"
+amount = 599
+at = 2025-04-04
+cat = "食費"
+
+[[expenses]]
+desc = "オフィス内自販機 飲み物 x2"
+amount = 100
+at = 2025-04-04
+cat = "食費"
