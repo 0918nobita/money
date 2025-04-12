@@ -11,9 +11,9 @@ import { routeTree } from './routeTree.gen';
 const router = createRouter({ routeTree });
 
 declare module '@tanstack/react-router' {
-	interface Register {
-		router: typeof router;
-	}
+    interface Register {
+        router: typeof router;
+    }
 }
 
 dayjs.extend(isBetween);
@@ -26,7 +26,7 @@ dayjs.tz.setDefault('Asia/Tokyo');
 const rootElement = document.getElementById('app')!;
 const root = ReactDOM.createRoot(rootElement);
 root.render(
-	<React.StrictMode>
-		<RouterProvider router={router} />
-	</React.StrictMode>,
+    <React.StrictMode>
+        <RouterProvider router={router} />
+    </React.StrictMode>,
 );

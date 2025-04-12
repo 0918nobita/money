@@ -83,6 +83,13 @@ at = 2025-04-06
 cat = "娯楽費"
 
 [[expenses]]
+desc = "吉野家"
+amount = 767
+at = 2025-04-06
+deffered = 2025-05-26
+cat = "食費"
+
+[[expenses]]
 desc = "飲み物"
 amount = 190
 at = 2025-04-07
@@ -109,7 +116,7 @@ cat = "食費"
 [[expenses]]
 desc = "キッチンオリジン"
 amount = 538
-at = 2025-04-07
+at = 2025-04-08
 cat = "食費"
 
 [[expenses]]
@@ -125,10 +132,23 @@ at = 2025-04-09
 cat = "食費"
 
 [[expenses]]
+desc = "セブンイレブン"
+amount = 618
+at = 2025-04-09
+deffered = 2025-05-26
+cat = "食費"
+
+[[expenses]]
 desc = "飲み物 x2"
 amount = 100
 at = 2025-04-10
 cat = "食費"
+
+[[expenses]]
+desc = "Q.enestでんき"
+amount = 5_012
+at = 2025-04-10
+cat = "光熱費"
 
 [[expenses]]
 desc = "飲み物"
@@ -147,3 +167,43 @@ desc = "ブックオフ"
 amount = 120
 at = 2025-04-11
 cat = "娯楽費"
+
+[[expenses]]
+desc = "ヤオコー"
+amount = 991
+at = 2025-04-12
+cat = "食費"
+
+[[expenses]]
+desc = "セブンイレブン 封筒"
+amount = 291
+at = 2025-04-12
+deffered = 2025-05-26
+cat = "日用品費"
+
+[[expenses]]
+desc = "セブンイレブン フルーツオ・レ"
+amount = 108
+at = 2025-04-12
+deffered = 2025-05-26
+cat = "食費"
+
+[[expenses]]
+desc = "郵便局 速達料金"
+amount = 440
+at = 2025-04-12
+deffered = 2025-05-26
+cat = "手数料"
+
+[[expenses]]
+desc = "ココス 晩ごはん"
+amount = 1_958
+at = 2025-04-12
+deffered = 2025-05-26
+cat = "食費"
+
+[[expenses]]
+desc = "電車賃"
+amount = 314
+at = 2025-04-12
+cat = "交通費"
