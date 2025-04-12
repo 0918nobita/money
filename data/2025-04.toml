@@ -69,3 +69,81 @@ desc = "オフィス内自販機 飲み物 x2"
 amount = 100
 at = 2025-04-04
 cat = "食費"
+
+[[expenses]]
+desc = "グランサックス 名刺入れ"
+amount = 4_070
+at = 2025-04-06
+cat = "日用品費"
+
+[[expenses]]
+desc = "カラオケ館"
+amount = 1_796
+at = 2025-04-06
+cat = "娯楽費"
+
+[[expenses]]
+desc = "飲み物"
+amount = 190
+at = 2025-04-07
+cat = "食費"
+
+[[expenses]]
+desc = "渋谷 ハンバーガーショップ"
+amount = 1_551
+at = 2025-04-07
+cat = "食費"
+
+[[expenses]]
+desc = "飲み物"
+amount = 150
+at = 2025-04-07
+cat = "食費"
+
+[[expenses]]
+desc = "キッチンオリジン"
+amount = 538
+at = 2025-04-07
+cat = "食費"
+
+[[expenses]]
+desc = "キッチンオリジン"
+amount = 538
+at = 2025-04-07
+cat = "食費"
+
+[[expenses]]
+desc = "ヤオコー"
+amount = 171
+at = 2025-04-08
+cat = "食費"
+
+[[expenses]]
+desc = "キッチンオリジン"
+amount = 561
+at = 2025-04-09
+cat = "食費"
+
+[[expenses]]
+desc = "飲み物 x2"
+amount = 100
+at = 2025-04-10
+cat = "食費"
+
+[[expenses]]
+desc = "飲み物"
+amount = 80
+at = 2025-04-11
+cat = "食費"
+
+[[expenses]]
+desc = "キッチンオリジン"
+amount = 885
+at = 2025-04-11
+cat = "食費"
+
+[[expenses]]
+desc = "ブックオフ"
+amount = 120
+at = 2025-04-11
+cat = "娯楽費"
